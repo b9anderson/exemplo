@@ -26,7 +26,7 @@ public class Teste {
 
 	@Test
 	public void test() {
-		
+		System.out.println("teste");
 	}
 
 }
